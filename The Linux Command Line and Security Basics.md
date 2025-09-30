@@ -19,10 +19,10 @@ Exploring adding new users with 2 different commands.
 - useradd and adduser
 
 ##### Command: 
->sudo useradd bob
->sudo adduser sally
+>useradd bobby
+>adduser sally
 
-<img width="834" height="656" alt="image" src="https://github.com/user-attachments/assets/c9a3d7ba-6575-4106-8acd-12ecea014adb" />
+<img width="683" height="405" alt="image" src="https://github.com/user-attachments/assets/4331eeb4-3531-43f7-83d2-496d6ad9f202" />
 
 Though both the commands create a user, useradd command creates a user with very basic setup where it does not have any home directory, password while the adduser command creates user with home directory and asks for password and other information through interactive prompts.
 
