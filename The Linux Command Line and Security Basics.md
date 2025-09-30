@@ -1,4 +1,4 @@
-## Linux Cli and Security Basics
+## Linux User, Group, and Permission Management
 This contains the linux basic commands covering adding users, permissions,  updating groups and creating a executable bash file.
 
 
