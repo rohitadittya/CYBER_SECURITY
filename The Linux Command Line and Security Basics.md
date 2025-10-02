@@ -1,6 +1,19 @@
 ## Linux User, Group, and Permission Management
 This contains the linux basic commands covering adding users, permissions,  updating groups and creating a executable bash file.
 
+### 1. List all the updates available
+Here, we are checking all the packages that needs update
+
+##### Command: 
+>apt list --upgradable
+
+<img width="720" height="282" alt="image" src="https://github.com/user-attachments/assets/5fe98cd4-e793-40ef-a880-cd4138edafa8" />
+
+### 2, 3. Update the system
+Here, we are updating the system
+
+##### Command: 
+>sudo apt update
 
 ### User Tasks:
 ### 4. Change current user to root user
