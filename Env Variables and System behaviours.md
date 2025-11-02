@@ -97,7 +97,12 @@ For this no output is displayed
 <img width="653" height="140" alt="image" src="https://github.com/user-attachments/assets/4c201451-a934-457a-bbcb-5b8188063dad" />
 
 #### Make myprog a Set-UID root program, export the LD PRELOAD environment variable again in the root account and run it.
+For this no output is displayed
+<img width="796" height="152" alt="image" src="https://github.com/user-attachments/assets/a6c021b8-c51c-4dba-8ada-abec96cca711" />
 
+#### Make myprog a Set-UID BOB program, and running with different non root user - Sally.
+<img width="1532" height="333" alt="image" src="https://github.com/user-attachments/assets/3daf894f-bf29-4dfb-85e0-dc37d1db4a44" />
+For this no output is displayed
 
 ### Task 8: Invoking External Programs Using system() versus execve()
 
@@ -115,3 +120,6 @@ we can conclude that the Set‑UID program correctly printed the file contents. 
 Both the output prints the same result except that execve() is harmless. The execve() version does not invoke a shell and treats arguments literally, so the injection does not execute.
 
 ### Task 9: Invoking External Programs Using system() versus execve()
+<img width="1264" height="341" alt="image" src="https://github.com/user-attachments/assets/92d71f38-31ce-4b6e-8898-703a3a8abc67" />
+Exploiting and adding the text "Exploited"
+<img width="561" height="162" alt="image" src="https://github.com/user-attachments/assets/8f88da70-a0dd-40f8-8738-9ed4a53acd0d" />
