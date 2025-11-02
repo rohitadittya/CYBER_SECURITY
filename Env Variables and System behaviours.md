@@ -93,7 +93,6 @@ This outputs the regular **ls** results and the file was set as root.
 
 #### Make myprog a Set-UID root program, and run it as a normal user
 For this no output is displayed
-
 <img width="653" height="140" alt="image" src="https://github.com/user-attachments/assets/4c201451-a934-457a-bbcb-5b8188063dad" />
 
 #### Make myprog a Set-UID root program, export the LD PRELOAD environment variable again in the root account and run it.
@@ -101,8 +100,9 @@ For this no output is displayed
 <img width="796" height="152" alt="image" src="https://github.com/user-attachments/assets/a6c021b8-c51c-4dba-8ada-abec96cca711" />
 
 #### Make myprog a Set-UID BOB program, and running with different non root user - Sally.
-<img width="1532" height="333" alt="image" src="https://github.com/user-attachments/assets/3daf894f-bf29-4dfb-85e0-dc37d1db4a44" />
 For this no output is displayed
+<img width="975" height="40" alt="image" src="https://github.com/user-attachments/assets/3dbcc220-ea6e-4f57-b8b1-a89a7779957b" />
+<img width="975" height="146" alt="image" src="https://github.com/user-attachments/assets/126d638d-762a-4203-a16d-8974e7f5f94a" />
 
 ### Task 8: Invoking External Programs Using system() versus execve()
 
