@@ -101,7 +101,7 @@ For this no output is displayed
 
 #### Make myprog a Set-UID BOB program, and running with different non root user - Sally.
 For this no output is displayed
-<img width="975" height="40" alt="image" src="https://github.com/user-attachments/assets/3dbcc220-ea6e-4f57-b8b1-a89a7779957b" />
+<img width="973" height="35" alt="image" src="https://github.com/user-attachments/assets/3dcf9c1a-cc9f-4ee6-bb69-c83bf50f08ce" />
 <img width="975" height="146" alt="image" src="https://github.com/user-attachments/assets/126d638d-762a-4203-a16d-8974e7f5f94a" />
 
 ### Task 8: Invoking External Programs Using system() versus execve()
